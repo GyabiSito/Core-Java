@@ -32,7 +32,7 @@ Cada carpeta representa un tema o módulo práctico trabajado:
 Este repositorio está destinado a uso personal y educativo. Puedes explorar los ejemplos, ejecutar los programas y modificar el código para un mejor entendimiento del lenguaje y sus características.
 ### Excalidraw
 
-El archivo JVMExcalidraw lo abren [aquí](https://excalidraw.com/) lo cual tiene un resumen sobre la JVM (No esta actualizado a las ultimas versiones de Java)
+El archivo JVMExcalidraw lo descargan y lo abren [aquí](https://excalidraw.com/) lo cual tiene un resumen sobre la JVM (No esta actualizado a las ultimas versiones de Java)
 
 ## Acerca del curso
 
